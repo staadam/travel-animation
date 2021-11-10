@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.64e6dc55.chunk.css",
-    "main.js": "/static/js/main.9dacf36b.chunk.js",
-    "main.js.map": "/static/js/main.9dacf36b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a8aaa15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a8aaa15.js.map",
-    "static/js/2.ec54f448.chunk.js": "/static/js/2.ec54f448.chunk.js",
-    "static/js/2.ec54f448.chunk.js.map": "/static/js/2.ec54f448.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.64e6dc55.chunk.css.map": "/static/css/main.64e6dc55.chunk.css.map",
-    "static/js/2.ec54f448.chunk.js.LICENSE.txt": "/static/js/2.ec54f448.chunk.js.LICENSE.txt",
-    "static/media/travel.7c441423.svg": "/static/media/travel.7c441423.svg"
+    "main.css": "/travel-animation/static/css/main.64e6dc55.chunk.css",
+    "main.js": "/travel-animation/static/js/main.9dacf36b.chunk.js",
+    "main.js.map": "/travel-animation/static/js/main.9dacf36b.chunk.js.map",
+    "runtime-main.js": "/travel-animation/static/js/runtime-main.c24a66ac.js",
+    "runtime-main.js.map": "/travel-animation/static/js/runtime-main.c24a66ac.js.map",
+    "static/js/2.ec54f448.chunk.js": "/travel-animation/static/js/2.ec54f448.chunk.js",
+    "static/js/2.ec54f448.chunk.js.map": "/travel-animation/static/js/2.ec54f448.chunk.js.map",
+    "index.html": "/travel-animation/index.html",
+    "static/css/main.64e6dc55.chunk.css.map": "/travel-animation/static/css/main.64e6dc55.chunk.css.map",
+    "static/js/2.ec54f448.chunk.js.LICENSE.txt": "/travel-animation/static/js/2.ec54f448.chunk.js.LICENSE.txt",
+    "static/media/travel.7c441423.svg": "/travel-animation/static/media/travel.7c441423.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a8aaa15.js",
+    "static/js/runtime-main.c24a66ac.js",
     "static/js/2.ec54f448.chunk.js",
     "static/css/main.64e6dc55.chunk.css",
     "static/js/main.9dacf36b.chunk.js"
